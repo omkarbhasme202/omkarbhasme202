@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **(mailto:omkarbhasme7357@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omkarbhasme202/)**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1kKIEC8XmczvmSAZBKrrWyvLybBx77mU2](https://drive.google.com/drive/u/0/folders/1kKIEC8XmczvmSAZBKrrWyvLybBx77mU2)
+- 📄 Know about my experiences  https://drive.google.com/drive/u/0/folders/1kKIEC8XmczvmSAZBKrrWyvLybBx77mU2
 
 - ⚡ Fun fact **I started building websites before I could even debug properly! 😅**
 
