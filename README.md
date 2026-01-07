@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 , I'm Omkar Bhasme</h1>
-<h3 align="center">A passionate frontend developer and software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🌱 I’m currently learning **backend development using Node.js as well as python and their libraries like(numpy,pandas,matplotlib) data science**
 
